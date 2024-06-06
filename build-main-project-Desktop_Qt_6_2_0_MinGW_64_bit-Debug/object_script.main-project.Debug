@@ -1,0 +1,16 @@
+debug/buslist.o
+debug/end.o
+debug/location.o
+debug/login.o
+debug/main.o
+debug/go.o
+debug/payment.o
+debug/seat.o
+debug/qrc_Resource.o
+debug/moc_buslist.o
+debug/moc_end.o
+debug/moc_go.o
+debug/moc_location.o
+debug/moc_login.o
+debug/moc_payment.o
+debug/moc_seat.o

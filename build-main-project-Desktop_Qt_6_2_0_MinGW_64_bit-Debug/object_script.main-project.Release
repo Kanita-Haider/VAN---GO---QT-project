@@ -1,0 +1,16 @@
+release/buslist.o
+release/end.o
+release/location.o
+release/login.o
+release/main.o
+release/go.o
+release/payment.o
+release/seat.o
+release/qrc_Resource.o
+release/moc_buslist.o
+release/moc_end.o
+release/moc_go.o
+release/moc_location.o
+release/moc_login.o
+release/moc_payment.o
+release/moc_seat.o
